@@ -1,2 +1,6 @@
 # WebScraping
-esta foi uma atividade  que desenvolvi enquanto estudei na mentorama
+ Esta foi uma atividade  que desenvolvi enquanto estudei na mentorama
+
+## Como instalar :
+
+  Para instalar e testar é necessário clonar o repositório https://github.com/LucasSPedrolo/WebScraping.git
