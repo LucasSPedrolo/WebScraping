@@ -3,4 +3,4 @@
 
 ## Como instalar :
   É necessario baixar as bibliotecas : bs4 (beautifulSoup) , requests e hmtl5lib
-  Para instalar e testar é necessário clonar o repositório https://github.com/LucasSPedrolo/WebScraping.git
+  Para instalar e testar, é necessário clonar o repositório https://github.com/LucasSPedrolo/WebScraping.git
